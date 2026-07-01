@@ -1,0 +1,8 @@
+Requirement already satisfied: absl-py in /home/gaoling106023/miniconda3/envs/mc-cot/lib/python3.10/site-packages (2.1.0)
+Requirement already satisfied: nltk in /home/gaoling106023/miniconda3/envs/mc-cot/lib/python3.10/site-packages (3.9.1)
+Requirement already satisfied: numpy in /home/gaoling106023/miniconda3/envs/mc-cot/lib/python3.10/site-packages (1.26.4)
+Requirement already satisfied: six in /home/gaoling106023/miniconda3/envs/mc-cot/lib/python3.10/site-packages (1.16.0)
+Requirement already satisfied: click in /home/gaoling106023/miniconda3/envs/mc-cot/lib/python3.10/site-packages (from nltk) (8.1.7)
+Requirement already satisfied: joblib in /home/gaoling106023/miniconda3/envs/mc-cot/lib/python3.10/site-packages (from nltk) (1.4.2)
+Requirement already satisfied: regex>=2021.8.3 in /home/gaoling106023/miniconda3/envs/mc-cot/lib/python3.10/site-packages (from nltk) (2024.9.11)
+Requirement already satisfied: tqdm in /home/gaoling106023/miniconda3/envs/mc-cot/lib/python3.10/site-packages (from nltk) (4.66.5)
